@@ -2,7 +2,7 @@
 Used EMTCNN net for real-time driving drowsiness detection. Leveraging eye tracking, the model accurately predicts eye state (open/closed) Enhancing road safety by alerting drivers, ensuring vigilance during long journeys.
 # Driving Drowsiness Prediction Project
 
-![Project Banner](link_to_your_banner_image)
+![Project Banner](https://github.com/curioserve/DrowsinessGuardian/blob/main/video-annotation-example.gif)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
